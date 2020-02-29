@@ -27,4 +27,4 @@ To run the web service, install flask:
 **Description of the algorithm:**
 - check the edge case (i.e. 0-length)
 - store the total count of each letter in the array
-- check for the presence of the arithmetic progression with d = 1 in the array.
+- check the array for the presence of the arithmetic progression with d = 1.
